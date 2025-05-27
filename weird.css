@@ -323,6 +323,7 @@ header.shadow .logo
 	height: 420px;
 	object-fit: cover;
 	object-position: center;
+	border-radius: 10px;
 
 }
 .post-content
